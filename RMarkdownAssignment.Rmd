@@ -1,10 +1,9 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Adam I Gullion"
 date: "Data 2401"
 output: html_document
 ---
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE) ## this line makes all the code show! 
@@ -12,26 +11,61 @@ knitr::opts_chunk$set(echo = TRUE) ## this line makes all the code show!
   ## Everything above this is R code that we need to make the file run! We'll discuss it next class.
 ```
 
-
-Reminder: We learned how to do these things in class today, but there is a "Markdown Help" page available in RStudio (and lots of help if you google). 
-
+Reminder: We learned how to do these things in class today, but there is a "Markdown Help" page available in RStudio (and lots of help if you google).
 
 # In-class Activity, Markdown
 
-**Do not skip reading this line** Create a new section at the end of this file with the title "Your work here", and beneath it, do the following 3 things. To turn this in, make sure you've committed and pushed, and turn in the link to this repository to the assignment on Blackboard.  
+**Do not skip reading this line** Create a new section at the end of this file with the title "Your work here", and beneath it, do the following 3 things. To turn this in, make sure you've committed and pushed, and turn in the link to this repository to the assignment on Blackboard.
 
-1. Make a subsection called Wise words. Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
+1.  Make a subsection called Wise words. Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
 
-2. Make a subsection called My semester. Make a three column table of the current courses you are taking, with separate columns for course number (put those in __bold__), course title (put those in _italics_), and instructor name.
+2.  Make a subsection called My semester. Make a three column table of the current courses you are taking, with separate columns for course number (put those in **bold**), course title (put those in *italics*), and instructor name.
 
-3. Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
+3.  Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
 
-- A _subsubheading_ with the name of the artist or author;    
-- An example of their writing or lyrics (formatted in a *block of text*);   
-- A _list_ of things they have written or performed (remember to use the formatting markup for a list!).     
+-   A *subsubheading* with the name of the artist or author;\
+-   An example of their writing or lyrics (formatted in a *block of text*);\
+-   A *list* of things they have written or performed (remember to use the formatting markup for a list!).
 
-
-Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists! 
+Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists!
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
- 
+
+# Your Work Here
+
+## Wise Words
+
+"Juuust a bit outside", Bob Uecker
+
+Rest in peace
+
+## My Semester
+
+| Course Number | Course Name | Course Professor |
+|:---|----|----|
+| Art 1310 | Intro To Visual Arts | Anne Engerrand |
+| Data 2401 | Data Science | Katherine Shoemaker |
+| Hist 1306 | United States History after 1877 | Peter Soland |
+| Math 2421 | Differential and Integral Calculus with Applications | Jeong-Mi Yoon |
+| TCOM 3302 | Technical Communications | Joan Wedes |
+
+## I recommend
+
+### Jerry Terry
+
+I'll be honest, I only know this guy because of the song," The Boys Are Back in Town (to kill you)". It gets stuck in my head all the time. It is a remix of the song " The boys are back in town" but edited to have the song be about killing you
+
+`Guess who just got back today?`
+
+`Them wild-eyed boys that'd been away!`
+
+`They were askin' if you were aroundI told them you were livin'`
+
+`They were askin' if you could be found`
+
+`I told them no`
+
+-   I will be honest
+-   I don't know any other of his works
+-   I just know that the song is in my head constantly
+-   Redoin is also awesome and if not for the boys, this would be in my head
